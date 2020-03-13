@@ -15,11 +15,3 @@ end
   
 end 
 
-emails1 = 
-parser1 = 
-parset1.parse 
-
-emails1 = 
-parser1 = 
-parset1.parse 
-
