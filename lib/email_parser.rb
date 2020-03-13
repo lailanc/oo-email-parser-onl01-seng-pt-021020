@@ -8,5 +8,6 @@ class EmailAddressParser
   end 
   
   def parse 
+  puts splitEamil = emails.split.collect {|address|
   
 end 
