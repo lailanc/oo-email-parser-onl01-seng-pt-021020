@@ -8,6 +8,6 @@ class EmailAddressParser
   end 
   
   def parse 
-  puts splitEamil = emails.split.collect {|address|
+  puts splitEamil = emails.split.collect {|address| address.split(',')}
   
 end 
